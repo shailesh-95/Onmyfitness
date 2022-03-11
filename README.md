@@ -1,2 +1,2 @@
-# Onmyfitness.co.in
+# Onmyfitness.com
  This is my first online fitness shopping website using bootstrap.
